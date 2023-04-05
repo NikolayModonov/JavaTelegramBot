@@ -4,6 +4,7 @@
 *.iml
 *.ipr
 out/
+logs/
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -82,3 +83,6 @@ build/
 ### VS Code ###
 .vscode/
 
+
+### DataBase Files ###
+*.db
